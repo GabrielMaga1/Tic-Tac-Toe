@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(129, 124, 117);
+    font-size: 0px;
+}
+.ButtonBox{
+    color: aliceblue;
+    width: 150px;
+    height: 150px;
+    font-size: 80px;  
+    border: 1px solid rgb(255, 255, 255);
+    outline: none;
+    font-weight: bold;
+    vertical-align: top;
+    align-items:baseline;
+    font-family: sans-serif;
+    padding: 1px;
+}
+
+.ButtonBox:hover{
+    box-shadow:150px 150px 150px 150px inset rgb(99, 130, 139);
+}
+.Boxes{
+    margin: auto;  
+    text-align: center; 
+    margin-top:  270px;
+}
